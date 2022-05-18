@@ -1,6 +1,7 @@
-"## Bem-vindo(a) ao perfil do Alexandre Garcia 😁
+
 
  <div>
+ <i><h2>Bem-vindo(a) ao perfil do Alexandre Garcia 😁</h2></i>
   <a href="https://github.com/AlexandreGarc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexandreGarc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreGarc&layout=compact&langs_count=6&theme=tokyonight"/>
@@ -13,15 +14,11 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Pra conteúdo sobre programação me segue nas redes abaixo!
  
 <div> 
   <a href="https://www.instagram.com/_.ale_garcia._/?hl=en" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "alexandrexandewf2014@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alexandre-garcia-94b988110/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
-
 </div>"
- https://raw.githubusercontent.com/devemdobro/devemdobro/main/README.md#:~:text=%23%23%20Bem%2Dvindo(a,snake.svg)%0A%0A%3C/div%3E
 
